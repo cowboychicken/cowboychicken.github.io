@@ -12,7 +12,7 @@ email: aaroncim@gmail.com
 website: cowboychicken.github.io
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 # twitter_username: facespics
@@ -32,7 +32,7 @@ linkedin_username: aaronim
 # Additional icon links
 additional_links:
 - title: my resume
-  icon: fa-regular fa-file
+  icon: far fa-file
   url: https://drive.google.com/file/d/1etKwdKOHIVC6TS93tmsRylUJuLsGiZjY/view?usp=share_link
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
