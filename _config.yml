@@ -49,7 +49,6 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Aaron and I an looking for new opportunities! (to be continued)
-
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -101,8 +100,9 @@ content:
         title: FlightSafety International
         link: flightsafety.com
         # link_text: flightsafety.com
-        sub_title: Business Analyst
-        Application Administrator (Starting Position)
+        sub_title: | 
+            Business Analyst
+            Application Administrator (Starting Position)
         caption: March 2017 - December 2020
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
@@ -121,7 +121,6 @@ content:
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             Part of the resin polymer R&D team for an industrial coatings company. Held a variety of responsibilities that supported various stages of product development and manufacturing.
-
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -150,7 +149,6 @@ content:
       - Working on my cars and taking them to the track
       - Trading futures
       - Playing the drums
-
     #  Look at this cool image  
     #  ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
