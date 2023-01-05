@@ -12,7 +12,7 @@ email: aaroncim@gmail.com
 website: cowboychicken.github.io
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 # twitter_username: facespics
@@ -55,20 +55,23 @@ content:
     content:
       - layout: top-middle
         title: Economic Calendar Web Scraper and Google Calendar Updater
-        link: github.com/sproogen
+        link: https://github.com/cowboychicken/Economic-Google-Calendar
         # link_text: Project Website
         additional_links:
-          - title:  Economic Calendar Web Scraper and Google Calendar Updater
+          - title:  Economic Google Calendar
             icon: fab fa-github
             url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Java, Maven, Google Calendar and OAuth APIs
         description: | # this will include new lines to allow paragraphs
-          Created a simple web scraper that fetches high-impact financial news events and adds them to a Google Calendar that users can subscribe to. Maven was used to handle dependencies such as Htmlnuit (headless browser) and the Google Cloud APIs. This project served a personal need that appeared to have no similar solutions available. 
-  
+          Created a simple web scraper that fetches high-impact financial news events and adds them to a Google Calendar that users can subscribe to.
+          Maven was used to handle dependencies such as Htmlunit (headless browser) and the Google Cloud APIs.
+          Several Economic Calendar APIs exist but require a monthly fee. Thus the web scraping route was chosen.
+          This project served a personal need that appeared to have no similar solutions available. Day traders should always check for economic news events as they can create higher than usual volatility. By leveraging Google Calendar, which I already use quite frequently, the seamless integration into my day has proven to be quite beneficial. I also have the ability to easily share this with other traders. 
+
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -76,51 +79,31 @@ content:
         title: FlightSafety International
         link: flightsafety.com
         # link_text: flightsafety.com
-        sub_title: BI&A Analyst
-        caption: December 2020 - November 2021
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Build reports and dashboards that help business units gain insights and make data-driven decisions.
-            Develop transformation scripts that turn raw data into more usable forms for reporting.
-            Participate in regular meetings with data engineers and other analysts to groom and promote new features for enterprise analytics products.
-            Work directly with senior leadership to support long-term strategic initiatives as well as urgent ad hoc requests. 
-            Primarily using PowerBI and Azure database products. 
-      - layout: left
-        title: FlightSafety International
-        link: flightsafety.com
-        # link_text: flightsafety.com
-        sub_title: BI&A Analyst
-        caption: December 2020 - November 2021
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Build re
-      - layout: left
-        title: FlightSafety International
-        link: flightsafety.com
-        # link_text: flightsafety.com
         sub_title: | 
-            Business Analyst
-            Application Administrator (Starting Position)
-        caption: March 2017 - December 2020
+          Business Intelligence Analyst
+          Business Analyst
+          Application Administrator (starting position)
+        caption: March 2017 - November 2021
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          
         description: | # this will include new lines to allow paragraphs
-            Sole administrator and point of contact for SAAS product used to deploy company's customer survey that is sent to over 50k customers each year.
-            Developed new applications and maintained existing ones using the aforementioned SAAS product. This required basic scripting (JScript) and HMTL/CSS.
-            Collaborate with internal stakeholders and draft requirement documents.
-            Streamlined a business process that was previously handled manually and un-trackable. Reduced administration time and allowed reduction of headcount.
+          Started as an administrator for Operations. Became the primary developer and point of contact for a SAAS product. Eventually joined the corporate BI team as an analyst to focus more on data analytics and developing reports to help Operations make more data driven decisions. Primarily using PowerBI and Azure database products.
+          
+          Collaborate with stakeholders from various business units to draft requirements for reports/dashboards built with Power BI and applications that needed to be built with the aforementioned SAAS product.
+          Participate in regular meetings with engineers, developers and other analysts to groom and promote new features for various enterprise analytics products.
+          Work directly with senior leadership to support long-term strategic initiatives as well as urgent ad hoc requests.
+          Developed new applications and maintained existing ones that were built using the aforementioned SAAS product. Entails basic scripting with JScript and HMTL/CSS.
+          Built applications that streamlined several business processes in Operations that were previously handled manually and not standardized. Significantly reducing administration time and increasing the ability to track and analyze.
       - layout: left
         title: Jones-Blair Industrial Coatings
-        link: flightsafety.com
-        # link_text: flightsafety.com
+        link: jones-blair.com
+        # link_text: jones-blair.com
         sub_title: Chemist
         caption: January 2015 - August 2016
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          
         description: | # this will include new lines to allow paragraphs
-            Part of the resin polymer R&D team for an industrial coatings company. Held a variety of responsibilities that supported various stages of product development and manufacturing.
+            Part of the R&D team that supported various stages of product development and manufacturing for an industrial coatings company. Focused on developing new and existing resin polymers that were used throughout their formulations.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
