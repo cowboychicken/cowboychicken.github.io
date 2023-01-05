@@ -135,13 +135,9 @@ content:
         #
         #  I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
       - layout: left
-              title: University of Texas at San Antonio
-              caption: Graduated 2014
-              sub_title: BS Chemistry
-
-
-
-
+        title: University of Texas at San Antonio
+        caption: Graduated 2014
+        sub_title: BS Chemistry
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
